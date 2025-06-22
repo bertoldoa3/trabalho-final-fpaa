@@ -6,9 +6,11 @@ Este repositório contém a solução para o trabalho final da disciplina **Fund
 
 ## 🧠 Descrição da Solução
 
-_Breve descrição da abordagem utilizada._
+Este programa tem como objetivo encontrar **todas as subsequências comuns mais longas (LCS)** entre duas sequências de letras minúsculas. 
+A solução combina **programação dinâmica** para construir a matriz de comparação entre as strings e **backtracking** para recuperar todas 
+as LCS possíveis de forma eficiente.
 
----
+A aplicação é feita em C# e permite processar múltiplos conjuntos de entrada.
 
 ## ❓ Perguntas
 
